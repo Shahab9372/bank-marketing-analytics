@@ -17,6 +17,45 @@ This project follows the complete analytics workflow:
 
 ---
 
+## 🎯 Business Problem
+
+Banks invest significant resources in marketing campaigns to encourage customers to subscribe to term deposits. However, not every customer responds positively to marketing efforts. Sending the same campaign to every customer increases costs and reduces overall effectiveness.
+
+This project analyzes customer demographics, financial information, and previous campaign interactions to identify the characteristics of customers most likely to subscribe. The insights can help marketing teams improve campaign targeting, increase conversion rates, and allocate marketing resources more efficiently.
+
+---
+
+## 📋 Project Workflow
+
+The project follows a complete end-to-end analytics pipeline:
+
+### 1. Data Exploration (Python)
+- Loaded and explored the dataset
+- Cleaned missing and duplicate values
+- Performed Exploratory Data Analysis (EDA)
+- Identified customer behavior patterns through visualizations
+
+### 2. SQL Analysis (PostgreSQL)
+- Wrote analytical SQL queries
+- Compared subscription rates across customer groups
+- Created reusable SQL views for reporting
+- Generated dashboard-ready datasets
+
+### 3. Dashboard Development (Power BI)
+- Designed an interactive dashboard with three report pages:
+  - Campaign Overview
+  - Customer Segmentation
+  - Campaign Performance
+- Added KPIs, filters, charts, and business recommendations
+
+### 4. Business Insights
+- Identified high-performing customer segments
+- Evaluated campaign effectiveness
+- Compared marketing channels and previous outcomes
+- Recommended data-driven strategies to improve future campaigns
+
+---
+
 ## 🛠 Tools & Technologies
 
 - Python
