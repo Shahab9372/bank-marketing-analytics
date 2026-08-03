@@ -124,7 +124,17 @@ The Python notebook includes:
 
 ## 📷 Dashboard Preview
 
-*(Add screenshots from the Power BI folder here after uploading them.)*
+### Campaign Overview
+
+![Campaign Overview](powerbi/campaign_overview.png)
+
+### Customer Segmentation
+
+![Customer Segmentation](powerbi/customer_segmentation.png)
+
+### Campaign Performance
+
+![Campaign Performance](powerbi/campaign_performance.png)
 
 ---
 
