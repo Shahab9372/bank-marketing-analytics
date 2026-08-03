@@ -135,7 +135,6 @@ The Python notebook includes:
 ### Campaign Performance
 
 ![Campaign Performance](images/Campaign%20Performance.png)
-
 ---
 
 ## 👤 Author
