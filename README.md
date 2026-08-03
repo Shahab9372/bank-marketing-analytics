@@ -33,7 +33,7 @@ This project follows the complete analytics workflow:
 
 ## 📁 Repository Structure
 
-'''text
+```text
 bank-marketing-analytics/
 │
 ├── notebooks/
@@ -53,7 +53,7 @@ bank-marketing-analytics/
 │   └── bank_marketing.csv
 │
 └── README.md
-'''
+```
 
 ## 📈 Dashboard Pages
 
