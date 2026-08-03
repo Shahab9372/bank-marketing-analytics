@@ -126,15 +126,15 @@ The Python notebook includes:
 
 ### Campaign Overview
 
-![Campaign Overview](powerbi/campaign_overview.png)
+![Campaign Overview](images/Campaign%20Overview.png)
 
 ### Customer Segmentation
 
-![Customer Segmentation](powerbi/customer_segmentation.png)
+![Customer Segmentation](images/Customer%20Segmentation.png)
 
 ### Campaign Performance
 
-![Campaign Performance](powerbi/campaign_performance.png)
+![Campaign Performance](images/Campaign%20Performance.png)
 
 ---
 
