@@ -122,32 +122,6 @@ bank-marketing-analytics/
 - Contact channel comparison
 - Customer volume by month
 
----
-
-## 🔍 SQL Analysis
-
-The SQL section includes analyses such as:
-
-- Customer segmentation
-- Job performance comparison
-- Campaign performance
-- Customer balance analysis
-- Age-group analysis
-- Dashboard-ready SQL views
-
----
-
-## 📊 Python Analysis
-
-The Python notebook includes:
-
-- Data loading
-- Data cleaning
-- Missing value analysis
-- Duplicate detection
-- Exploratory Data Analysis (EDA)
-- Visualizations
-- Business insights
 
 ---
 
